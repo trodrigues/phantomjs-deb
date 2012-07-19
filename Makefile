@@ -3,7 +3,7 @@
 # define variables
 # - to get the codename => $ lsb_release -c -s
 PKGNAME="phantomjs"
-VERSION="1.4.1"
+VERSION="1.6.0"
 CODENAME="natty"
 
 PWD	:= $(shell pwd)
